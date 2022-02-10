@@ -1,0 +1,10 @@
+209.127.191.180:9279:qfhoatxs:2sy51idc5fmf
+45.95.96.187:8746:qfhoatxs:2sy51idc5fmf
+45.95.96.237:8796:qfhoatxs:2sy51idc5fmf
+193.8.127.189:9271:qfhoatxs:2sy51idc5fmf
+45.142.28.83:8094:qfhoatxs:2sy51idc5fmf
+45.136.231.43:7099:qfhoatxs:2sy51idc5fmf
+45.94.47.108:8152:qfhoatxs:2sy51idc5fmf
+193.8.56.119:9183:qfhoatxs:2sy51idc5fmf
+45.95.99.226:7786:qfhoatxs:2sy51idc5fmf
+45.95.99.20:7580:qfhoatxs:2sy51idc5fmf
